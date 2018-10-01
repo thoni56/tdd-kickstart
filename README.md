@@ -16,4 +16,4 @@ Each template should follow the same pattern, example and if at all
 possible, be complete so that it can be run with example output once
 copied.
 
-Help is of course extremly welcome!
+Help is of course extremely welcome!
